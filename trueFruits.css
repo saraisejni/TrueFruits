@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+body {
+    font-family: "Poppins", sans-serif;
+    background-color: #4A5E26;
+
+}
+video {
+    margin-left: auto;
+    margin-right: auto;
+    display: block
+}
+
+.ueberschrift {
+    color: #BCA47D;
+    font-family: "Poppins", sans-serif;
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+.text1 {
+    color: #EBEACA;
+    font-family: "Poppins", sans-serif;
+    margin-left: 50px;
+    margin-right: 600px;
+}
+.topnav {
+    background-color: #EBEACA;
+    font-family: "Poppins", sans-serif;
+    overflow: hidden;
+}
+
+.topnav a {
+    float: left;
+    color: #4A5E26;
+    text-align: center;
+    padding: 15px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: #a47c3c;
+    color: white;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+    font-weight: bold;
+    color: #4A5E26;
+}
+
+.col1{
+    margin-left: 50px;
+    margin-top: 50px;
+    color: #EBEACA;
+}
+
+.col2{
+    margin-left: 200px;
+    margin-top: -170px;
+    color: #EBEACA;
+}
+.col3{
+    margin-left: 350px;
+    margin-top: -170px;
+    color: #EBEACA;
+}
+
+.col4{
+    margin-left: 500px;
+    margin-top: -170px;
+    color: #EBEACA;
+}
+.col5{
+    margin-left: 50px;
+    margin-top: 100px;
+    color: #EBEACA;
+}
+.col6{
+    margin-left: 200px;
+    margin-top: -160px;
+    color: #EBEACA;
+}
+.col7{
+    margin-left: 350px;
+    margin-top: -165px;
+    color: #EBEACA;
+}
+.col8{
+    margin-left: 500px;
+    margin-top: -170px;
+    color: #EBEACA;
+}
+
+
+
